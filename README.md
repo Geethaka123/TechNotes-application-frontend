@@ -3,7 +3,7 @@
 Welcome to the MERN Stack Note Taking App with Redux! This is a simple web application built using the MERN (MongoDB, Express.js, React, Node.js) stack and Redux for state management. With this app, you can create, view, edit, and delete notes to help you organize your thoughts and tasks.
 
 - **Backend** (in a separate repository):
-  - The backend code for this app is in a separate repository, which you can find [here](https://github.com/your-username/note-taking-app-backend).
+  - The backend code for this app is in a separate repository, which you can find [here](https://github.com/Geethaka123/TechNotes-application-backend).
 
 ## Table of Contents
 - [Features](#features)
