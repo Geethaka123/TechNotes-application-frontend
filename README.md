@@ -5,7 +5,8 @@ Welcome to the MERN Stack Note Taking App with Redux! This is a simple web appli
 - **Backend** (in a separate repository):
   - The backend code for this app is in a separate repository, which you can find [here](https://github.com/Geethaka123/TechNotes-application-backend).
  
-![Project Image](project_image_url_here)
+![Project Image](Technotes%20images/1.png)
+![Project Image](Technotes%20images/2.png)
 
 ## Table of Contents
 - [Features](#features)
