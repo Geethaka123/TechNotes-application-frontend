@@ -7,6 +7,7 @@ Welcome to the MERN Stack Note Taking App with Redux! This is a simple web appli
  
 ![Project Image](Technotes%20images/1.png)
 ![Project Image](Technotes%20images/2.png)
+![Project Image](Technotes%20images/6.png)
 
 
 ## Project Images
