@@ -38,7 +38,6 @@ This app was built with the following technologies:
   - Redux: A predictable state container for managing application state.
   - Axios: A promise-based HTTP client for making API requests.
   - React Router: For handling client-side routing.
-  - Material-UI: A popular React UI framework for styling.
   
 - **Backend**:
   - Node.js: A JavaScript runtime environment.
